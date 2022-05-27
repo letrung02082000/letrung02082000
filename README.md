@@ -3,7 +3,7 @@
 <br>
 
 ## :sassy_man:  About me
-- :school: I am a `Senior Student` at Faculty of Computer & Information Technology at Ho Chi Minh University of Science.
+- :school: I am a `Senior Student` at Faculty of Computer & Information Technology at VNUHCM - University of Science.
 - :trophy: Third Prize of `AtWare` Minathon 2021 Competition
 - :technologist: I love using Software as a solution for every `Problem`
 - :student: I’m currently learning: `Computer Network` and `Software Engineering`.
