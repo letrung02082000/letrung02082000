@@ -7,5 +7,5 @@
 - :trophy: Third Prize of `AtWare` Hackathon 2021 Competition
 - :technologist: I love designing great interface and experience for `Softwares` with solution of writing `codes`
 - :student: I’m currently learning: `Software Engineering`.
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1cfRd1wL2pO-OxXnGhAD6sBQK_xVxleit/view?usp=sharing).
+- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://www.topcv.vn/download-cv?cv_id=AVNeUAADAQEDVwcDVgAMDAdbDQ5cVwoBUFxVWgaedb&t=1654852545).
 - :nerd_face: Always `learning new things`
