@@ -8,4 +8,4 @@
 - :technologist: I love designing great interface and experience for `Softwares` with solution of writing `codes`
 - :student: I’m currently learning: `Software Engineering`.
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://www.topcv.vn/xem-cv/WVRWVQgCUVcBV1EBBQJYAwkGVFYGAQZSUVcCUQ16d5).
-- :nerd_face: Always `learning new things`
+- :nerd_face: Eager to `learn new things`
